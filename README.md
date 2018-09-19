@@ -3,7 +3,7 @@ This project contains a PoC of a simple screen that supports all devices of iPho
 
 Release Notes:
 
-Deployment target - iOS 10.0 •	Developed tool – Xcode 10 GM •	Languages used – Swift 4.1.2 • Third party frameworks used – Nil •	Device compatibility – Universal (Designs will be big or small automatically based on the device and orientation)
+Deployment target - iOS 10.0 •	Developed tool – Xcode 10 GM •	Languages used – Swift 4.2 • Third party frameworks used – Nil •	Device compatibility – Universal (Designs will be big or small automatically based on the device and orientation)
 
 Added few screen shots to describe about the design preview
 
